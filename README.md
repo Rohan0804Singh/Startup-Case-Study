@@ -1,5 +1,5 @@
 # Startup-Case-Study
-This dataset includes funding information of the Indian startups from January 2015 to August 2017. Implementation of Basic Python Libraries like NumPy, Pandas, Matplotlib, Seaborn on this dataset to find some valuable insights.
+This dataset includes funding information of the Indian startups from January 2015 to August 2017. Implementation of Basic Python Libraries like NumPy, Pandas, Matplotlib, Seaborn on this dataset to find some valuable insights.To see more about Indian Startups go to: https://www.startupindia.gov.in/
 
 ## Feature Details:
 1) SNo - Serial number.
