@@ -21,5 +21,10 @@ This dataset includes funding information of the Indian startups from January 20
 type.
 5) Top 5 industries and percentage of the total amount funded to that industry.
 6) Find top 5 startups with most amount of total funding
-7) Find the top 5 startups who received the most number of funding rounds
+7) Find the top 5 startups who received the most number of funding rounds.
+
+## Insights
+1) Find out what type of startups are getting funded in the last few years?
+2) Who are the important investors?
+3) What are the hot fields that get a lot of funding these days?
 
