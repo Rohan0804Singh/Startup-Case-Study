@@ -28,3 +28,6 @@ type.
 2) Who are the important investors?
 3) What are the hot fields that get a lot of funding these days?
 
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
+
